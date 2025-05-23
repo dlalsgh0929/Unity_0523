@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfd734a7db0166d4bb3a8d925fa68207, type: 3}
+  m_Name: Item_JumpBoost
+  m_EditorClassIdentifier: 
+  displayName: "\uC810\uD504 \uAC15\uD654 \uC544\uC774\uD15C"
+  description: "\uC810\uD504\uB97C \uC77C\uC815 \uC2DC\uAC04\uB3D9\uC548 \uAC15\uD654\uD569\uB2C8\uB2E4."
+  type: 0
+  icon: {fileID: 0}
+  dropPrefab: {fileID: 540813728320325125, guid: d7a1b3f5d4d104649923e29a857cac45, type: 3}
